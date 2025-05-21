@@ -1,0 +1,17 @@
+[
+  {
+    "key": "business_name",
+    "question": "איך קוראים לעסק שלך?",
+    "placeholder": "שם העסק"
+  },
+  {
+    "key": "working_hours",
+    "question": "מה שעות הפעילות שלך?",
+    "placeholder": "08:00–17:00"
+  },
+  {
+    "key": "service_type",
+    "question": "איזה שירות אתה מציע?",
+    "placeholder": "לדוג׳: צילום חתונות"
+  }
+]
