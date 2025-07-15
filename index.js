@@ -1,4 +1,5 @@
 require('dotenv').config();
+
 const { create } = require('venom-bot');
 const OpenAI = require('openai');
 const axios = require('axios');
