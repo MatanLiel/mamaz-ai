@@ -4,7 +4,8 @@
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js",
-    "dev": "node server/index.js"
+    "dev": "node server/index.js",
+    "postinstall": "echo Skipping postinstall"
   },
   "dependencies": {
     "cors": "^2.8.5",
